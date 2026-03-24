@@ -17,7 +17,7 @@ _Hi everyone, I'm Hoang Long, a third-year Computer Science and Engineering stud
 
 ![C++](https://img.shields.io/badge/C++-9C4300?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-AB6C37?style=for-the-badge&logo=python)
-![Golang](https://img.shields.io/badge/Python-D82B00?style=for-the-badge&logo=go)
+![Golang](https://img.shields.io/badge/Golang-D82B00?style=for-the-badge&logo=go)
 
 ## 🎨 Frontend
 
