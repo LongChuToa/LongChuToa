@@ -44,7 +44,7 @@ _Hi everyone, I'm Hoang Long, a third-year Computer Science and Engineering stud
 _My only passionate is gaming, nothing else_
 
 # Contact
-![email](https://img.shields.io/badge/email-35DCEA?style=for-the-badge&logo=gmail&link=mailto:hoanglongcaovu@gmail.com)
-![fb](https://img.shields.io/badge/facebook-FFA108?style=for-the-badge&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fh0aNg.lOn9)
-![linkedin](https://img.shields.io/badge/Linkedin-C2660A?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flong-cao-vu-hoang-489883356%2F)
-![instagram](https://img.shields.io/badge/instagram-00FF96?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fh0ang.lon9%2F)
+[![email](https://img.shields.io/badge/email-35DCEA?style=for-the-badge&logo=gmail)](mailto:hoanglongcaovu@gmail.com)
+[![fb](https://img.shields.io/badge/facebook-FFA108?style=for-the-badge&logo=facebook)](https://www.facebook.com/h0aNg.lOn9)
+[![linkedin](https://img.shields.io/badge/Linkedin-C2660A?style=for-the-badge)](https://www.linkedin.com/in/long-cao-vu-hoang-489883356/)
+[![instagram](https://img.shields.io/badge/instagram-00FF96?style=for-the-badge&logo=instagram)](https://www.instagram.com/h0ang.lon9/)
