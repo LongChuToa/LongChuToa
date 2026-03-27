@@ -11,6 +11,8 @@ __          __        ______         _                _____          ____       
 # Introduction
 _Hi everyone, I'm Hoang Long, a third-year Computer Science and Engineering student at HCMUT. I’m passionate about becoming a game developer, but for practical reasons, my career goal is to work in backend engineering or cybersecurity._
 
+For my CV, [check this](CVs.pdf)
+
 # Tech Stack
 
 ## ⚙️ Backend
