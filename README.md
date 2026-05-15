@@ -20,6 +20,7 @@ For my CV, [check this](CVs.pdf)
 ![C++](https://img.shields.io/badge/C++-9C4300?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-AB6C37?style=for-the-badge&logo=python)
 ![Golang](https://img.shields.io/badge/Golang-D82B00?style=for-the-badge&logo=go)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
 ## 🎨 Frontend
 
@@ -32,6 +33,7 @@ For my CV, [check this](CVs.pdf)
 ## 🗄️ Database
 
 ![psql](https://img.shields.io/badge/PostgreSQL-E1B941?style=for-the-badge&logo=postgresql)
+![mysql](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql)
 
 ## 🔧 Tools
 
